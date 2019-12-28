@@ -1,0 +1,35 @@
+.ukuran {
+	float: right !important;
+	height: 50px !important;
+}
+.right {
+	margin-left: 600px !important;
+}
+
+.gambar {
+margin-top:-100px !important; 
+}
+
+.wrn {
+	color:white !important;
+}
+
+.gmb {
+
+	height: 595px !important;
+}
+
+
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.satu{
+    height: 20px;
+    width: 200px;
+
+}
+.aa{
+    font-size: 50px;
+}
